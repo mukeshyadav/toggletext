@@ -1,7 +1,7 @@
 /*
 	* jQuery plugin for content show more/less
 	* Author: yatra.com team (http://www.yatra.com)
-	* Further changes, comments, commit: http://www.github.com/mukeshyadav
+	* Further changes, comments, commit: https://github.com/mukeshyadav/toggletext/blob/master/jquery.my.wrap.js
 	* Licensed under the MIT license
 */
 
